@@ -34,15 +34,11 @@ Nesse desafio, você vai estar criando uma nova aplicação para aprender novas 
 
 Essa será uma aplicação que deve permitir a criação de clientes, produtos e pedidos, onde o cliente pode gerar novos pedidos de compra de certos produtos, como um pequeno e-commerce.
 
-### Template da aplicação
-
-Para te ajudar nesse desafio, criamos para você um modelo que você deve utilizar como um template do Github.
-
-O template está disponível na seguinte url: **[Acessar Template](https://github.com/Rocketseat/gostack-template-typeorm-relations)**
-
-**Dica**: Caso não saiba utilizar repositórios do Github como template, temos um guia em **[nosso FAQ](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/faq-desafios).**
-
-Agora navegue até a pasta criada e abra no Visual Studio Code, lembre-se de executar o comando `yarn` no seu terminal para instalar todas as dependências.
+### Techs
+* NodeJS - [ExpressJS];
+* PostgreSQL, ORM(Typeorm);
+* Container de Injeção de Dependência (Tsyringe);
+* Framework de Teste (Jest).
 
 ### Rotas da aplicação
 
